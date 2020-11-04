@@ -6,7 +6,7 @@ export const initialState = {
     { id: 1, text: 'Learn by doing', isCompleted: false },
     { id: 2, text: 'Check my website below', isCompleted: false },
     {
-      id: 2,
+      id: 3,
       text: 'Source code also available',
       isCompleted: false,
     },
