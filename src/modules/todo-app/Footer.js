@@ -11,7 +11,7 @@ export const Footer = () => {
   const { linkHolder } = useStyles();
   return (
     <Box mt={3}>
-      <Typography align="center" variant="body2">
+      <Typography align="center" variant="body2" gutterBottom>
         Made with <Favorite color="secondary" /> by{' '}
         <Link
           href="https://bigsondev.com/"
@@ -31,6 +31,18 @@ export const Footer = () => {
           GitHub
         </Link>
         .
+      </Typography>
+      <Typography align="center" variant="body2">
+        Let's{' '}
+        <Link
+          href="https://bigsondev.com/mentorship/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className={linkHolder}
+        >
+          skyrocket
+        </Link>{' '}
+        in Frontend together 🚀
       </Typography>
     </Box>
   );
