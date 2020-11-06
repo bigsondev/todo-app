@@ -10,7 +10,7 @@ This project is a an example solution to: [Todo App Project](https://bigsondev.c
 
 If you get stuck with your own solution, feel free to browse the code as a reference or reach out to me through [Slack](https://bigsondev.com/start-here/#bigsondev-slack).
 
-Deployed version can be found here: [Todo App by BigsonDev](https://fervent-wozniak-24508f.netlify.app/)
+Deployed version can be found here: [Todo App by BigsonDev](https://fervent-wozniak-24508f.netlify.app/).
 
 # Support
 
